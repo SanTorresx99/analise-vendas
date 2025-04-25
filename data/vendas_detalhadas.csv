@@ -1,0 +1,1001 @@
+Data,Produto,Categoria,Preço,Quantidade,Cidade
+2023-11-24,Calça Jeans,Vestuário,99.9,1,Belo Horizonte
+2023-05-06,Teclado,Eletrônicos,129.9,3,Rio de Janeiro
+2023-12-13,Sandália,Calçados,79.9,2,Brasília
+2023-08-05,Camiseta,Vestuário,49.9,1,Rio de Janeiro
+2023-04-22,Teclado,Eletrônicos,129.9,9,Brasília
+2023-01-14,Sandália,Calçados,79.9,4,Manaus
+2023-08-03,Teclado,Eletrônicos,129.9,8,Brasília
+2023-05-23,Camiseta,Vestuário,49.9,3,Curitiba
+2023-06-24,Mouse,Eletrônicos,89.9,3,Fortaleza
+2023-06-22,Calça Jeans,Vestuário,99.9,2,Curitiba
+2023-02-19,Geladeira,Eletrodomésticos,2599.0,6,Brasília
+2023-05-16,Camiseta,Vestuário,49.9,8,Manaus
+2023-03-05,Fogão,Eletrodomésticos,999.0,2,Manaus
+2023-05-31,Smartphone,Eletrônicos,2499.0,6,Brasília
+2023-04-09,Calça Jeans,Vestuário,99.9,1,Fortaleza
+2023-05-29,Calça Jeans,Vestuário,99.9,4,Rio de Janeiro
+2023-07-14,Mouse,Eletrônicos,89.9,8,Porto Alegre
+2023-03-25,Geladeira,Eletrodomésticos,2599.0,6,Fortaleza
+2023-12-10,Mouse,Eletrônicos,89.9,2,Brasília
+2023-11-22,Notebook,Eletrônicos,3499.0,9,Fortaleza
+2023-03-25,Tênis,Calçados,199.9,7,Belo Horizonte
+2023-11-24,Sandália,Calçados,79.9,4,Porto Alegre
+2023-01-29,Teclado,Eletrônicos,129.9,1,Porto Alegre
+2023-07-25,Mouse,Eletrônicos,89.9,2,Fortaleza
+2023-10-18,Geladeira,Eletrodomésticos,2599.0,4,Recife
+2023-07-22,Tênis,Calçados,199.9,3,Belo Horizonte
+2023-03-13,Teclado,Eletrônicos,129.9,9,Manaus
+2023-05-15,Smartphone,Eletrônicos,2499.0,7,Brasília
+2023-07-24,Geladeira,Eletrodomésticos,2599.0,4,Salvador
+2023-09-18,Tênis,Calçados,199.9,2,São Paulo
+2023-02-26,Notebook,Eletrônicos,3499.0,3,Curitiba
+2023-11-02,Calça Jeans,Vestuário,99.9,7,Curitiba
+2023-11-02,Tênis,Calçados,199.9,9,Belo Horizonte
+2023-10-11,Camiseta,Vestuário,49.9,2,Manaus
+2023-05-17,Geladeira,Eletrodomésticos,2599.0,2,Belo Horizonte
+2023-08-11,Notebook,Eletrônicos,3499.0,8,São Paulo
+2023-05-15,Sandália,Calçados,79.9,3,Manaus
+2023-02-24,Mouse,Eletrônicos,89.9,9,Brasília
+2023-04-12,Notebook,Eletrônicos,3499.0,6,Salvador
+2023-10-04,Sandália,Calçados,79.9,1,Brasília
+2023-06-15,Tênis,Calçados,199.9,1,Rio de Janeiro
+2023-07-05,Mouse,Eletrônicos,89.9,4,São Paulo
+2023-05-04,Smartphone,Eletrônicos,2499.0,2,Rio de Janeiro
+2023-09-06,Calça Jeans,Vestuário,99.9,9,Salvador
+2023-03-07,Tênis,Calçados,199.9,9,Salvador
+2023-05-16,Sandália,Calçados,79.9,10,Curitiba
+2023-04-19,Sandália,Calçados,79.9,4,Belo Horizonte
+2023-07-24,Geladeira,Eletrodomésticos,2599.0,8,Manaus
+2023-08-20,Calça Jeans,Vestuário,99.9,4,Fortaleza
+2023-02-02,Geladeira,Eletrodomésticos,2599.0,1,Brasília
+2023-10-11,Teclado,Eletrônicos,129.9,10,Fortaleza
+2023-01-04,Calça Jeans,Vestuário,99.9,1,Fortaleza
+2023-02-04,Camiseta,Vestuário,49.9,6,Rio de Janeiro
+2023-09-21,Teclado,Eletrônicos,129.9,5,Recife
+2023-04-20,Sandália,Calçados,79.9,3,Brasília
+2023-10-23,Tênis,Calçados,199.9,4,Recife
+2023-07-28,Teclado,Eletrônicos,129.9,2,Rio de Janeiro
+2023-12-04,Fogão,Eletrodomésticos,999.0,6,Curitiba
+2023-07-30,Tênis,Calçados,199.9,1,Rio de Janeiro
+2023-02-01,Fogão,Eletrodomésticos,999.0,6,Rio de Janeiro
+2023-05-08,Teclado,Eletrônicos,129.9,4,Manaus
+2023-08-18,Notebook,Eletrônicos,3499.0,7,Salvador
+2023-05-23,Tênis,Calçados,199.9,4,Rio de Janeiro
+2023-08-15,Sandália,Calçados,79.9,2,São Paulo
+2023-11-30,Sandália,Calçados,79.9,1,Rio de Janeiro
+2023-05-02,Notebook,Eletrônicos,3499.0,7,Recife
+2023-09-04,Teclado,Eletrônicos,129.9,7,São Paulo
+2023-03-26,Fogão,Eletrodomésticos,999.0,1,Curitiba
+2023-05-16,Tênis,Calçados,199.9,5,Curitiba
+2023-12-23,Sandália,Calçados,79.9,8,Salvador
+2023-04-08,Mouse,Eletrônicos,89.9,4,São Paulo
+2023-10-24,Sandália,Calçados,79.9,1,Porto Alegre
+2023-01-30,Camiseta,Vestuário,49.9,10,Recife
+2023-09-15,Sandália,Calçados,79.9,3,São Paulo
+2023-09-18,Calça Jeans,Vestuário,99.9,3,Rio de Janeiro
+2023-11-01,Calça Jeans,Vestuário,99.9,4,Curitiba
+2023-03-03,Smartphone,Eletrônicos,2499.0,4,Brasília
+2023-11-01,Camiseta,Vestuário,49.9,10,Rio de Janeiro
+2023-08-03,Smartphone,Eletrônicos,2499.0,10,Manaus
+2023-06-11,Mouse,Eletrônicos,89.9,4,Porto Alegre
+2023-05-03,Mouse,Eletrônicos,89.9,7,Salvador
+2023-12-10,Mouse,Eletrônicos,89.9,8,Porto Alegre
+2023-02-07,Camiseta,Vestuário,49.9,8,Brasília
+2023-10-16,Calça Jeans,Vestuário,99.9,2,Manaus
+2023-04-20,Sandália,Calçados,79.9,5,Salvador
+2023-06-28,Calça Jeans,Vestuário,99.9,4,Porto Alegre
+2023-05-26,Notebook,Eletrônicos,3499.0,8,Manaus
+2023-12-27,Mouse,Eletrônicos,89.9,10,Manaus
+2023-01-05,Sandália,Calçados,79.9,5,Rio de Janeiro
+2023-03-10,Mouse,Eletrônicos,89.9,2,Rio de Janeiro
+2023-10-11,Notebook,Eletrônicos,3499.0,5,Belo Horizonte
+2023-11-06,Teclado,Eletrônicos,129.9,6,Fortaleza
+2023-12-18,Mouse,Eletrônicos,89.9,9,Recife
+2023-05-09,Camiseta,Vestuário,49.9,2,Curitiba
+2023-05-22,Camiseta,Vestuário,49.9,1,Porto Alegre
+2023-03-08,Mouse,Eletrônicos,89.9,3,Recife
+2023-10-10,Fogão,Eletrodomésticos,999.0,9,São Paulo
+2023-02-27,Calça Jeans,Vestuário,99.9,3,Manaus
+2023-01-19,Geladeira,Eletrodomésticos,2599.0,10,Manaus
+2023-03-17,Fogão,Eletrodomésticos,999.0,3,São Paulo
+2023-06-07,Geladeira,Eletrodomésticos,2599.0,1,Porto Alegre
+2023-04-18,Teclado,Eletrônicos,129.9,2,Porto Alegre
+2023-10-14,Fogão,Eletrodomésticos,999.0,10,Salvador
+2023-05-02,Notebook,Eletrônicos,3499.0,3,Curitiba
+2023-01-13,Notebook,Eletrônicos,3499.0,6,Curitiba
+2023-12-09,Teclado,Eletrônicos,129.9,5,Salvador
+2023-12-26,Calça Jeans,Vestuário,99.9,7,São Paulo
+2023-08-29,Teclado,Eletrônicos,129.9,4,Recife
+2023-06-29,Mouse,Eletrônicos,89.9,4,Fortaleza
+2023-01-13,Teclado,Eletrônicos,129.9,7,Porto Alegre
+2023-05-23,Calça Jeans,Vestuário,99.9,5,Porto Alegre
+2023-11-25,Sandália,Calçados,79.9,7,Manaus
+2023-06-19,Camiseta,Vestuário,49.9,2,Belo Horizonte
+2023-04-02,Smartphone,Eletrônicos,2499.0,5,São Paulo
+2023-02-25,Smartphone,Eletrônicos,2499.0,7,Porto Alegre
+2023-06-10,Fogão,Eletrodomésticos,999.0,10,Manaus
+2023-03-01,Fogão,Eletrodomésticos,999.0,10,Fortaleza
+2023-05-11,Camiseta,Vestuário,49.9,7,São Paulo
+2023-09-24,Sandália,Calçados,79.9,4,Porto Alegre
+2023-08-09,Calça Jeans,Vestuário,99.9,6,Brasília
+2023-06-10,Calça Jeans,Vestuário,99.9,5,Manaus
+2023-06-08,Fogão,Eletrodomésticos,999.0,6,Curitiba
+2023-12-23,Mouse,Eletrônicos,89.9,9,Salvador
+2023-04-09,Fogão,Eletrodomésticos,999.0,7,Salvador
+2023-11-12,Smartphone,Eletrônicos,2499.0,5,Curitiba
+2023-10-08,Camiseta,Vestuário,49.9,5,Belo Horizonte
+2023-04-18,Fogão,Eletrodomésticos,999.0,10,Brasília
+2023-12-02,Geladeira,Eletrodomésticos,2599.0,8,Recife
+2023-08-15,Teclado,Eletrônicos,129.9,9,Recife
+2023-03-28,Calça Jeans,Vestuário,99.9,5,Manaus
+2023-12-06,Smartphone,Eletrônicos,2499.0,6,Rio de Janeiro
+2023-05-01,Mouse,Eletrônicos,89.9,4,Fortaleza
+2023-03-17,Camiseta,Vestuário,49.9,1,Fortaleza
+2023-09-01,Smartphone,Eletrônicos,2499.0,2,Recife
+2023-08-01,Smartphone,Eletrônicos,2499.0,4,Curitiba
+2023-09-11,Fogão,Eletrodomésticos,999.0,4,Salvador
+2023-12-02,Camiseta,Vestuário,49.9,2,Curitiba
+2023-04-23,Notebook,Eletrônicos,3499.0,9,Recife
+2023-01-26,Sandália,Calçados,79.9,4,Rio de Janeiro
+2023-08-22,Notebook,Eletrônicos,3499.0,8,Manaus
+2023-10-14,Smartphone,Eletrônicos,2499.0,6,Recife
+2023-11-10,Sandália,Calçados,79.9,7,Manaus
+2023-08-17,Notebook,Eletrônicos,3499.0,8,Recife
+2023-05-13,Teclado,Eletrônicos,129.9,5,Manaus
+2023-09-06,Teclado,Eletrônicos,129.9,5,Recife
+2023-02-09,Mouse,Eletrônicos,89.9,4,Belo Horizonte
+2023-06-21,Geladeira,Eletrodomésticos,2599.0,9,Rio de Janeiro
+2023-03-12,Notebook,Eletrônicos,3499.0,4,Curitiba
+2023-12-22,Notebook,Eletrônicos,3499.0,4,Rio de Janeiro
+2023-08-01,Fogão,Eletrodomésticos,999.0,6,Manaus
+2023-08-27,Fogão,Eletrodomésticos,999.0,1,Fortaleza
+2023-08-04,Fogão,Eletrodomésticos,999.0,10,São Paulo
+2023-10-22,Fogão,Eletrodomésticos,999.0,8,São Paulo
+2023-06-30,Mouse,Eletrônicos,89.9,7,Curitiba
+2023-10-03,Sandália,Calçados,79.9,10,Fortaleza
+2023-09-07,Teclado,Eletrônicos,129.9,5,Curitiba
+2023-09-06,Camiseta,Vestuário,49.9,7,Porto Alegre
+2023-12-09,Fogão,Eletrodomésticos,999.0,3,Recife
+2023-03-07,Smartphone,Eletrônicos,2499.0,9,São Paulo
+2023-07-21,Smartphone,Eletrônicos,2499.0,10,São Paulo
+2023-02-12,Fogão,Eletrodomésticos,999.0,3,Recife
+2023-04-04,Camiseta,Vestuário,49.9,5,Curitiba
+2023-06-17,Teclado,Eletrônicos,129.9,8,Porto Alegre
+2023-06-22,Fogão,Eletrodomésticos,999.0,5,Curitiba
+2023-05-10,Calça Jeans,Vestuário,99.9,8,São Paulo
+2023-10-04,Camiseta,Vestuário,49.9,6,Fortaleza
+2023-11-29,Calça Jeans,Vestuário,99.9,1,São Paulo
+2023-05-07,Teclado,Eletrônicos,129.9,1,Brasília
+2023-03-20,Teclado,Eletrônicos,129.9,3,Recife
+2023-12-09,Calça Jeans,Vestuário,99.9,10,Fortaleza
+2023-08-27,Mouse,Eletrônicos,89.9,6,Salvador
+2023-11-07,Smartphone,Eletrônicos,2499.0,2,Salvador
+2023-06-09,Calça Jeans,Vestuário,99.9,10,São Paulo
+2023-06-09,Smartphone,Eletrônicos,2499.0,7,Curitiba
+2023-04-12,Calça Jeans,Vestuário,99.9,10,Fortaleza
+2023-02-22,Mouse,Eletrônicos,89.9,10,Rio de Janeiro
+2023-10-17,Camiseta,Vestuário,49.9,6,Manaus
+2023-08-08,Geladeira,Eletrodomésticos,2599.0,2,Manaus
+2023-11-28,Geladeira,Eletrodomésticos,2599.0,1,Curitiba
+2023-09-08,Calça Jeans,Vestuário,99.9,7,Porto Alegre
+2023-11-22,Tênis,Calçados,199.9,3,Curitiba
+2023-04-01,Sandália,Calçados,79.9,5,Brasília
+2023-10-03,Tênis,Calçados,199.9,8,Curitiba
+2023-10-31,Mouse,Eletrônicos,89.9,6,Fortaleza
+2023-02-14,Mouse,Eletrônicos,89.9,8,Fortaleza
+2023-08-26,Smartphone,Eletrônicos,2499.0,10,Curitiba
+2023-06-22,Camiseta,Vestuário,49.9,8,Porto Alegre
+2023-04-04,Tênis,Calçados,199.9,4,Porto Alegre
+2023-05-13,Geladeira,Eletrodomésticos,2599.0,5,Brasília
+2023-12-26,Mouse,Eletrônicos,89.9,9,São Paulo
+2023-09-22,Teclado,Eletrônicos,129.9,2,Fortaleza
+2023-07-28,Tênis,Calçados,199.9,9,Fortaleza
+2023-12-20,Tênis,Calçados,199.9,8,Recife
+2023-01-09,Calça Jeans,Vestuário,99.9,5,Fortaleza
+2023-07-27,Teclado,Eletrônicos,129.9,5,Brasília
+2023-07-08,Tênis,Calçados,199.9,9,Manaus
+2023-06-26,Fogão,Eletrodomésticos,999.0,9,Porto Alegre
+2023-06-30,Tênis,Calçados,199.9,5,Belo Horizonte
+2023-05-09,Teclado,Eletrônicos,129.9,2,Fortaleza
+2023-06-11,Calça Jeans,Vestuário,99.9,9,Salvador
+2023-04-09,Teclado,Eletrônicos,129.9,8,Belo Horizonte
+2023-10-29,Sandália,Calçados,79.9,10,Belo Horizonte
+2023-02-21,Teclado,Eletrônicos,129.9,5,Fortaleza
+2023-07-04,Notebook,Eletrônicos,3499.0,5,São Paulo
+2023-12-29,Sandália,Calçados,79.9,3,Belo Horizonte
+2023-01-24,Camiseta,Vestuário,49.9,9,Belo Horizonte
+2023-12-24,Notebook,Eletrônicos,3499.0,8,Rio de Janeiro
+2023-01-07,Smartphone,Eletrônicos,2499.0,5,Recife
+2023-09-03,Tênis,Calçados,199.9,6,Salvador
+2023-01-27,Mouse,Eletrônicos,89.9,8,Rio de Janeiro
+2023-02-03,Fogão,Eletrodomésticos,999.0,8,Rio de Janeiro
+2023-10-23,Camiseta,Vestuário,49.9,3,Salvador
+2023-10-16,Mouse,Eletrônicos,89.9,2,Fortaleza
+2023-03-02,Sandália,Calçados,79.9,7,Brasília
+2023-11-02,Smartphone,Eletrônicos,2499.0,4,Manaus
+2023-07-14,Tênis,Calçados,199.9,8,Belo Horizonte
+2023-10-29,Fogão,Eletrodomésticos,999.0,5,Brasília
+2023-11-14,Camiseta,Vestuário,49.9,10,Rio de Janeiro
+2023-04-17,Teclado,Eletrônicos,129.9,5,Rio de Janeiro
+2023-03-22,Teclado,Eletrônicos,129.9,3,Manaus
+2023-02-08,Notebook,Eletrônicos,3499.0,1,Curitiba
+2023-08-19,Smartphone,Eletrônicos,2499.0,8,Belo Horizonte
+2023-01-17,Teclado,Eletrônicos,129.9,5,Belo Horizonte
+2023-12-26,Tênis,Calçados,199.9,2,Fortaleza
+2023-05-16,Smartphone,Eletrônicos,2499.0,4,Curitiba
+2023-02-28,Sandália,Calçados,79.9,4,Salvador
+2023-05-17,Notebook,Eletrônicos,3499.0,2,São Paulo
+2023-03-26,Mouse,Eletrônicos,89.9,10,Brasília
+2023-05-28,Tênis,Calçados,199.9,2,Recife
+2023-12-19,Mouse,Eletrônicos,89.9,7,Belo Horizonte
+2023-09-14,Sandália,Calçados,79.9,8,Recife
+2023-02-11,Smartphone,Eletrônicos,2499.0,1,Curitiba
+2023-06-15,Smartphone,Eletrônicos,2499.0,5,São Paulo
+2023-02-16,Teclado,Eletrônicos,129.9,10,Brasília
+2023-01-11,Mouse,Eletrônicos,89.9,10,São Paulo
+2023-03-31,Tênis,Calçados,199.9,9,Recife
+2023-05-23,Notebook,Eletrônicos,3499.0,10,Curitiba
+2023-11-22,Tênis,Calçados,199.9,2,Recife
+2023-06-28,Fogão,Eletrodomésticos,999.0,6,Porto Alegre
+2023-12-10,Calça Jeans,Vestuário,99.9,3,Porto Alegre
+2023-07-30,Tênis,Calçados,199.9,5,Curitiba
+2023-10-09,Camiseta,Vestuário,49.9,8,Rio de Janeiro
+2023-06-11,Mouse,Eletrônicos,89.9,6,Rio de Janeiro
+2023-07-26,Sandália,Calçados,79.9,1,Manaus
+2023-08-25,Fogão,Eletrodomésticos,999.0,1,Fortaleza
+2023-09-23,Geladeira,Eletrodomésticos,2599.0,10,Recife
+2023-11-17,Tênis,Calçados,199.9,1,Fortaleza
+2023-05-17,Sandália,Calçados,79.9,3,Belo Horizonte
+2023-08-13,Tênis,Calçados,199.9,2,São Paulo
+2023-11-19,Smartphone,Eletrônicos,2499.0,4,Salvador
+2023-06-09,Sandália,Calçados,79.9,1,Manaus
+2023-07-28,Calça Jeans,Vestuário,99.9,4,Rio de Janeiro
+2023-08-25,Calça Jeans,Vestuário,99.9,3,Recife
+2023-05-30,Sandália,Calçados,79.9,5,Curitiba
+2023-09-05,Tênis,Calçados,199.9,4,Recife
+2023-10-10,Notebook,Eletrônicos,3499.0,7,Fortaleza
+2023-11-03,Sandália,Calçados,79.9,3,Rio de Janeiro
+2023-05-22,Fogão,Eletrodomésticos,999.0,6,Manaus
+2023-05-17,Camiseta,Vestuário,49.9,5,Belo Horizonte
+2023-10-28,Smartphone,Eletrônicos,2499.0,8,Salvador
+2023-08-17,Sandália,Calçados,79.9,8,Porto Alegre
+2023-06-20,Sandália,Calçados,79.9,9,Curitiba
+2023-08-22,Geladeira,Eletrodomésticos,2599.0,4,Fortaleza
+2023-10-20,Fogão,Eletrodomésticos,999.0,4,Curitiba
+2023-01-23,Geladeira,Eletrodomésticos,2599.0,8,Curitiba
+2023-07-17,Notebook,Eletrônicos,3499.0,8,São Paulo
+2023-03-06,Sandália,Calçados,79.9,10,Porto Alegre
+2023-02-21,Tênis,Calçados,199.9,2,Manaus
+2023-08-22,Camiseta,Vestuário,49.9,3,Curitiba
+2023-12-02,Notebook,Eletrônicos,3499.0,2,Recife
+2023-05-16,Geladeira,Eletrodomésticos,2599.0,10,Curitiba
+2023-11-29,Calça Jeans,Vestuário,99.9,6,Manaus
+2023-07-14,Geladeira,Eletrodomésticos,2599.0,8,Manaus
+2023-01-19,Smartphone,Eletrônicos,2499.0,2,Fortaleza
+2023-11-20,Mouse,Eletrônicos,89.9,4,Rio de Janeiro
+2023-08-11,Calça Jeans,Vestuário,99.9,2,Recife
+2023-03-27,Mouse,Eletrônicos,89.9,1,São Paulo
+2023-06-16,Camiseta,Vestuário,49.9,5,Porto Alegre
+2023-07-11,Fogão,Eletrodomésticos,999.0,3,Fortaleza
+2023-09-29,Fogão,Eletrodomésticos,999.0,10,Salvador
+2023-03-29,Notebook,Eletrônicos,3499.0,2,Brasília
+2023-07-15,Smartphone,Eletrônicos,2499.0,4,Recife
+2023-10-26,Notebook,Eletrônicos,3499.0,4,Recife
+2023-11-23,Mouse,Eletrônicos,89.9,8,Belo Horizonte
+2023-12-08,Camiseta,Vestuário,49.9,8,Belo Horizonte
+2023-12-13,Sandália,Calçados,79.9,3,Rio de Janeiro
+2023-08-15,Geladeira,Eletrodomésticos,2599.0,10,Belo Horizonte
+2023-11-24,Fogão,Eletrodomésticos,999.0,5,Recife
+2023-06-04,Teclado,Eletrônicos,129.9,7,Recife
+2023-02-24,Teclado,Eletrônicos,129.9,7,Brasília
+2023-07-03,Smartphone,Eletrônicos,2499.0,5,Belo Horizonte
+2023-01-12,Fogão,Eletrodomésticos,999.0,5,São Paulo
+2023-10-17,Camiseta,Vestuário,49.9,10,Recife
+2023-05-27,Teclado,Eletrônicos,129.9,10,Porto Alegre
+2023-04-23,Teclado,Eletrônicos,129.9,10,Belo Horizonte
+2023-12-14,Notebook,Eletrônicos,3499.0,2,São Paulo
+2023-06-08,Tênis,Calçados,199.9,1,Brasília
+2023-07-06,Notebook,Eletrônicos,3499.0,2,Belo Horizonte
+2023-06-17,Fogão,Eletrodomésticos,999.0,3,Fortaleza
+2023-03-09,Sandália,Calçados,79.9,6,Manaus
+2023-09-14,Mouse,Eletrônicos,89.9,3,Belo Horizonte
+2023-09-04,Mouse,Eletrônicos,89.9,6,Rio de Janeiro
+2023-08-28,Calça Jeans,Vestuário,99.9,3,Fortaleza
+2023-12-13,Fogão,Eletrodomésticos,999.0,9,Porto Alegre
+2023-02-16,Fogão,Eletrodomésticos,999.0,1,Belo Horizonte
+2023-10-02,Calça Jeans,Vestuário,99.9,8,Porto Alegre
+2023-12-11,Mouse,Eletrônicos,89.9,10,Curitiba
+2023-11-23,Geladeira,Eletrodomésticos,2599.0,2,Fortaleza
+2023-08-30,Camiseta,Vestuário,49.9,10,Manaus
+2023-06-17,Smartphone,Eletrônicos,2499.0,4,Rio de Janeiro
+2023-11-22,Tênis,Calçados,199.9,5,Curitiba
+2023-03-01,Notebook,Eletrônicos,3499.0,1,São Paulo
+2023-06-05,Tênis,Calçados,199.9,2,Rio de Janeiro
+2023-05-01,Sandália,Calçados,79.9,3,Curitiba
+2023-08-21,Geladeira,Eletrodomésticos,2599.0,9,Curitiba
+2023-10-28,Notebook,Eletrônicos,3499.0,7,Rio de Janeiro
+2023-09-08,Smartphone,Eletrônicos,2499.0,7,Belo Horizonte
+2023-01-17,Geladeira,Eletrodomésticos,2599.0,4,Recife
+2023-08-16,Teclado,Eletrônicos,129.9,6,Rio de Janeiro
+2023-12-18,Geladeira,Eletrodomésticos,2599.0,9,Porto Alegre
+2023-02-01,Fogão,Eletrodomésticos,999.0,5,Fortaleza
+2023-03-04,Tênis,Calçados,199.9,2,Fortaleza
+2023-11-25,Smartphone,Eletrônicos,2499.0,1,São Paulo
+2023-06-20,Teclado,Eletrônicos,129.9,3,Brasília
+2023-04-16,Calça Jeans,Vestuário,99.9,9,Fortaleza
+2023-10-28,Teclado,Eletrônicos,129.9,4,Porto Alegre
+2023-03-17,Smartphone,Eletrônicos,2499.0,1,Belo Horizonte
+2023-03-16,Notebook,Eletrônicos,3499.0,9,Belo Horizonte
+2023-03-31,Calça Jeans,Vestuário,99.9,1,Salvador
+2023-01-08,Geladeira,Eletrodomésticos,2599.0,4,Brasília
+2023-06-15,Camiseta,Vestuário,49.9,3,Belo Horizonte
+2023-01-27,Notebook,Eletrônicos,3499.0,7,Manaus
+2023-02-28,Calça Jeans,Vestuário,99.9,8,Recife
+2023-07-05,Sandália,Calçados,79.9,10,Rio de Janeiro
+2023-08-20,Sandália,Calçados,79.9,4,Brasília
+2023-01-23,Sandália,Calçados,79.9,5,Recife
+2023-11-26,Camiseta,Vestuário,49.9,1,Recife
+2023-07-25,Fogão,Eletrodomésticos,999.0,2,Recife
+2023-12-31,Tênis,Calçados,199.9,2,Rio de Janeiro
+2023-06-14,Smartphone,Eletrônicos,2499.0,3,Rio de Janeiro
+2023-03-06,Mouse,Eletrônicos,89.9,10,Brasília
+2023-10-08,Geladeira,Eletrodomésticos,2599.0,7,Brasília
+2023-09-29,Mouse,Eletrônicos,89.9,8,Manaus
+2023-11-06,Fogão,Eletrodomésticos,999.0,2,Rio de Janeiro
+2023-12-02,Sandália,Calçados,79.9,4,Curitiba
+2023-08-20,Teclado,Eletrônicos,129.9,7,Porto Alegre
+2023-08-21,Fogão,Eletrodomésticos,999.0,7,Rio de Janeiro
+2023-06-10,Fogão,Eletrodomésticos,999.0,6,Belo Horizonte
+2023-07-11,Notebook,Eletrônicos,3499.0,8,Rio de Janeiro
+2023-02-16,Calça Jeans,Vestuário,99.9,2,Curitiba
+2023-02-19,Geladeira,Eletrodomésticos,2599.0,3,Manaus
+2023-01-31,Smartphone,Eletrônicos,2499.0,9,Manaus
+2023-06-18,Calça Jeans,Vestuário,99.9,7,Porto Alegre
+2023-12-07,Fogão,Eletrodomésticos,999.0,1,Belo Horizonte
+2023-11-04,Mouse,Eletrônicos,89.9,6,Rio de Janeiro
+2023-10-23,Sandália,Calçados,79.9,4,Salvador
+2023-12-03,Tênis,Calçados,199.9,4,Rio de Janeiro
+2023-06-29,Sandália,Calçados,79.9,6,Rio de Janeiro
+2023-05-23,Smartphone,Eletrônicos,2499.0,4,Curitiba
+2023-10-15,Smartphone,Eletrônicos,2499.0,10,Manaus
+2023-01-14,Smartphone,Eletrônicos,2499.0,5,São Paulo
+2023-04-03,Mouse,Eletrônicos,89.9,5,Porto Alegre
+2023-06-29,Camiseta,Vestuário,49.9,3,Salvador
+2023-10-17,Fogão,Eletrodomésticos,999.0,2,Salvador
+2023-11-21,Camiseta,Vestuário,49.9,2,Manaus
+2023-04-21,Fogão,Eletrodomésticos,999.0,7,Recife
+2023-06-24,Notebook,Eletrônicos,3499.0,6,Belo Horizonte
+2023-06-16,Smartphone,Eletrônicos,2499.0,10,Rio de Janeiro
+2023-01-27,Notebook,Eletrônicos,3499.0,3,Brasília
+2023-01-26,Calça Jeans,Vestuário,99.9,5,Recife
+2023-12-05,Fogão,Eletrodomésticos,999.0,8,Brasília
+2023-08-15,Fogão,Eletrodomésticos,999.0,5,Fortaleza
+2023-09-20,Calça Jeans,Vestuário,99.9,6,Curitiba
+2023-02-26,Mouse,Eletrônicos,89.9,10,Recife
+2023-09-27,Mouse,Eletrônicos,89.9,1,Fortaleza
+2023-07-22,Smartphone,Eletrônicos,2499.0,1,São Paulo
+2023-04-15,Mouse,Eletrônicos,89.9,4,Salvador
+2023-05-11,Mouse,Eletrônicos,89.9,6,Rio de Janeiro
+2023-01-04,Tênis,Calçados,199.9,7,Salvador
+2023-03-08,Fogão,Eletrodomésticos,999.0,9,Fortaleza
+2023-09-14,Sandália,Calçados,79.9,6,Rio de Janeiro
+2023-07-23,Camiseta,Vestuário,49.9,7,São Paulo
+2023-08-24,Calça Jeans,Vestuário,99.9,6,Brasília
+2023-08-08,Smartphone,Eletrônicos,2499.0,7,Curitiba
+2023-05-29,Calça Jeans,Vestuário,99.9,7,São Paulo
+2023-06-16,Notebook,Eletrônicos,3499.0,10,Recife
+2023-12-20,Geladeira,Eletrodomésticos,2599.0,2,Curitiba
+2023-02-24,Teclado,Eletrônicos,129.9,7,Brasília
+2023-07-25,Sandália,Calçados,79.9,2,Curitiba
+2023-06-08,Geladeira,Eletrodomésticos,2599.0,4,Porto Alegre
+2023-03-28,Calça Jeans,Vestuário,99.9,9,Rio de Janeiro
+2023-09-29,Sandália,Calçados,79.9,4,Porto Alegre
+2023-06-29,Notebook,Eletrônicos,3499.0,4,Rio de Janeiro
+2023-03-16,Mouse,Eletrônicos,89.9,4,Salvador
+2023-11-05,Notebook,Eletrônicos,3499.0,2,Salvador
+2023-11-18,Tênis,Calçados,199.9,8,Brasília
+2023-10-24,Tênis,Calçados,199.9,10,Brasília
+2023-06-15,Geladeira,Eletrodomésticos,2599.0,3,Recife
+2023-02-04,Tênis,Calçados,199.9,8,Belo Horizonte
+2023-05-21,Smartphone,Eletrônicos,2499.0,1,Porto Alegre
+2023-09-17,Calça Jeans,Vestuário,99.9,5,Recife
+2023-08-20,Camiseta,Vestuário,49.9,1,Porto Alegre
+2023-05-27,Calça Jeans,Vestuário,99.9,2,Brasília
+2023-11-01,Sandália,Calçados,79.9,7,Recife
+2023-10-25,Sandália,Calçados,79.9,1,Recife
+2023-10-20,Teclado,Eletrônicos,129.9,6,Brasília
+2023-09-01,Sandália,Calçados,79.9,3,São Paulo
+2023-08-19,Calça Jeans,Vestuário,99.9,6,Rio de Janeiro
+2023-09-16,Notebook,Eletrônicos,3499.0,1,Fortaleza
+2023-12-29,Tênis,Calçados,199.9,8,Manaus
+2023-09-25,Smartphone,Eletrônicos,2499.0,3,Porto Alegre
+2023-07-10,Mouse,Eletrônicos,89.9,7,Curitiba
+2023-06-23,Smartphone,Eletrônicos,2499.0,1,Porto Alegre
+2023-02-03,Geladeira,Eletrodomésticos,2599.0,2,Manaus
+2023-12-14,Fogão,Eletrodomésticos,999.0,5,Belo Horizonte
+2023-12-03,Smartphone,Eletrônicos,2499.0,3,Porto Alegre
+2023-02-11,Smartphone,Eletrônicos,2499.0,3,Porto Alegre
+2023-06-08,Fogão,Eletrodomésticos,999.0,3,Brasília
+2023-12-29,Calça Jeans,Vestuário,99.9,5,Manaus
+2023-07-12,Geladeira,Eletrodomésticos,2599.0,3,Manaus
+2023-02-17,Fogão,Eletrodomésticos,999.0,9,Porto Alegre
+2023-01-10,Geladeira,Eletrodomésticos,2599.0,5,Salvador
+2023-04-20,Geladeira,Eletrodomésticos,2599.0,8,Fortaleza
+2023-04-26,Notebook,Eletrônicos,3499.0,3,Rio de Janeiro
+2023-06-01,Calça Jeans,Vestuário,99.9,9,Manaus
+2023-09-27,Camiseta,Vestuário,49.9,6,Brasília
+2023-03-09,Smartphone,Eletrônicos,2499.0,7,Salvador
+2023-03-25,Notebook,Eletrônicos,3499.0,10,Salvador
+2023-08-13,Camiseta,Vestuário,49.9,7,Porto Alegre
+2023-12-13,Teclado,Eletrônicos,129.9,8,Brasília
+2023-05-26,Tênis,Calçados,199.9,4,Manaus
+2023-05-03,Mouse,Eletrônicos,89.9,8,Fortaleza
+2023-07-08,Smartphone,Eletrônicos,2499.0,8,Recife
+2023-05-25,Fogão,Eletrodomésticos,999.0,9,Manaus
+2023-08-03,Notebook,Eletrônicos,3499.0,4,Brasília
+2023-03-12,Mouse,Eletrônicos,89.9,1,Recife
+2023-07-10,Sandália,Calçados,79.9,2,Manaus
+2023-03-05,Mouse,Eletrônicos,89.9,2,Salvador
+2023-05-20,Tênis,Calçados,199.9,9,Salvador
+2023-08-12,Calça Jeans,Vestuário,99.9,4,Recife
+2023-06-28,Camiseta,Vestuário,49.9,7,São Paulo
+2023-07-22,Sandália,Calçados,79.9,6,Fortaleza
+2023-07-17,Calça Jeans,Vestuário,99.9,6,Fortaleza
+2023-01-15,Geladeira,Eletrodomésticos,2599.0,2,Porto Alegre
+2023-03-16,Notebook,Eletrônicos,3499.0,1,Belo Horizonte
+2023-08-30,Notebook,Eletrônicos,3499.0,8,Recife
+2023-11-12,Camiseta,Vestuário,49.9,2,São Paulo
+2023-05-12,Teclado,Eletrônicos,129.9,3,Manaus
+2023-11-08,Sandália,Calçados,79.9,7,Rio de Janeiro
+2023-05-28,Teclado,Eletrônicos,129.9,5,Rio de Janeiro
+2023-01-25,Teclado,Eletrônicos,129.9,7,Brasília
+2023-08-23,Calça Jeans,Vestuário,99.9,2,Recife
+2023-11-02,Sandália,Calçados,79.9,1,Manaus
+2023-10-22,Teclado,Eletrônicos,129.9,3,Belo Horizonte
+2023-08-08,Camiseta,Vestuário,49.9,10,Porto Alegre
+2023-05-04,Smartphone,Eletrônicos,2499.0,7,Salvador
+2023-12-07,Calça Jeans,Vestuário,99.9,9,Porto Alegre
+2023-02-04,Sandália,Calçados,79.9,9,Manaus
+2023-09-17,Sandália,Calçados,79.9,1,Curitiba
+2023-08-29,Camiseta,Vestuário,49.9,7,Porto Alegre
+2023-05-10,Camiseta,Vestuário,49.9,6,Rio de Janeiro
+2023-06-26,Teclado,Eletrônicos,129.9,2,Brasília
+2023-06-20,Notebook,Eletrônicos,3499.0,1,Porto Alegre
+2023-10-07,Geladeira,Eletrodomésticos,2599.0,3,Recife
+2023-12-23,Tênis,Calçados,199.9,3,Salvador
+2023-02-02,Tênis,Calçados,199.9,1,Belo Horizonte
+2023-04-14,Camiseta,Vestuário,49.9,4,São Paulo
+2023-06-11,Mouse,Eletrônicos,89.9,9,Curitiba
+2023-10-06,Tênis,Calçados,199.9,5,São Paulo
+2023-11-28,Teclado,Eletrônicos,129.9,5,Porto Alegre
+2023-01-25,Geladeira,Eletrodomésticos,2599.0,5,Rio de Janeiro
+2023-07-08,Fogão,Eletrodomésticos,999.0,7,Recife
+2023-07-17,Geladeira,Eletrodomésticos,2599.0,3,Recife
+2023-12-21,Tênis,Calçados,199.9,6,Manaus
+2023-05-17,Calça Jeans,Vestuário,99.9,7,Rio de Janeiro
+2023-08-09,Smartphone,Eletrônicos,2499.0,3,Manaus
+2023-05-31,Geladeira,Eletrodomésticos,2599.0,2,Rio de Janeiro
+2023-06-17,Mouse,Eletrônicos,89.9,5,Recife
+2023-11-05,Fogão,Eletrodomésticos,999.0,3,Recife
+2023-06-29,Tênis,Calçados,199.9,1,Porto Alegre
+2023-11-11,Fogão,Eletrodomésticos,999.0,5,São Paulo
+2023-02-08,Fogão,Eletrodomésticos,999.0,6,Manaus
+2023-12-14,Notebook,Eletrônicos,3499.0,1,Salvador
+2023-11-08,Tênis,Calçados,199.9,1,Salvador
+2023-02-04,Teclado,Eletrônicos,129.9,6,Porto Alegre
+2023-07-16,Smartphone,Eletrônicos,2499.0,1,Brasília
+2023-03-20,Tênis,Calçados,199.9,6,Porto Alegre
+2023-08-16,Calça Jeans,Vestuário,99.9,10,Salvador
+2023-09-29,Geladeira,Eletrodomésticos,2599.0,7,Porto Alegre
+2023-11-29,Mouse,Eletrônicos,89.9,4,Rio de Janeiro
+2023-01-14,Notebook,Eletrônicos,3499.0,8,Manaus
+2023-07-18,Sandália,Calçados,79.9,2,Belo Horizonte
+2023-05-14,Tênis,Calçados,199.9,4,Brasília
+2023-05-27,Tênis,Calçados,199.9,4,Rio de Janeiro
+2023-03-11,Calça Jeans,Vestuário,99.9,8,Salvador
+2023-08-16,Calça Jeans,Vestuário,99.9,6,Porto Alegre
+2023-12-30,Calça Jeans,Vestuário,99.9,9,Manaus
+2023-05-29,Mouse,Eletrônicos,89.9,3,Salvador
+2023-07-05,Sandália,Calçados,79.9,4,Rio de Janeiro
+2023-04-13,Notebook,Eletrônicos,3499.0,4,Recife
+2023-01-14,Geladeira,Eletrodomésticos,2599.0,9,Brasília
+2023-07-08,Tênis,Calçados,199.9,9,Salvador
+2023-11-10,Calça Jeans,Vestuário,99.9,2,Belo Horizonte
+2023-07-23,Tênis,Calçados,199.9,9,Curitiba
+2023-07-29,Smartphone,Eletrônicos,2499.0,2,Salvador
+2023-06-12,Calça Jeans,Vestuário,99.9,8,Recife
+2023-12-15,Sandália,Calçados,79.9,6,Salvador
+2023-10-10,Smartphone,Eletrônicos,2499.0,3,Salvador
+2023-08-10,Sandália,Calçados,79.9,1,Rio de Janeiro
+2023-09-23,Notebook,Eletrônicos,3499.0,5,Salvador
+2023-03-24,Geladeira,Eletrodomésticos,2599.0,4,Porto Alegre
+2023-09-23,Mouse,Eletrônicos,89.9,2,Belo Horizonte
+2023-04-11,Sandália,Calçados,79.9,5,Salvador
+2023-11-17,Mouse,Eletrônicos,89.9,10,Manaus
+2023-02-17,Sandália,Calçados,79.9,3,Brasília
+2023-10-25,Notebook,Eletrônicos,3499.0,3,Brasília
+2023-11-06,Geladeira,Eletrodomésticos,2599.0,10,São Paulo
+2023-01-15,Calça Jeans,Vestuário,99.9,1,Brasília
+2023-05-16,Teclado,Eletrônicos,129.9,10,Curitiba
+2023-11-13,Camiseta,Vestuário,49.9,8,Manaus
+2023-05-29,Mouse,Eletrônicos,89.9,8,Fortaleza
+2023-12-17,Fogão,Eletrodomésticos,999.0,5,Recife
+2023-02-07,Camiseta,Vestuário,49.9,3,Recife
+2023-08-01,Tênis,Calçados,199.9,8,Fortaleza
+2023-06-24,Smartphone,Eletrônicos,2499.0,3,Porto Alegre
+2023-06-13,Geladeira,Eletrodomésticos,2599.0,7,Salvador
+2023-07-09,Sandália,Calçados,79.9,9,Rio de Janeiro
+2023-06-13,Teclado,Eletrônicos,129.9,8,Rio de Janeiro
+2023-05-17,Tênis,Calçados,199.9,4,Salvador
+2023-02-19,Camiseta,Vestuário,49.9,5,Curitiba
+2023-11-12,Fogão,Eletrodomésticos,999.0,4,Salvador
+2023-06-17,Smartphone,Eletrônicos,2499.0,6,Fortaleza
+2023-03-23,Tênis,Calçados,199.9,9,Recife
+2023-09-13,Mouse,Eletrônicos,89.9,8,São Paulo
+2023-02-16,Fogão,Eletrodomésticos,999.0,9,Recife
+2023-05-04,Teclado,Eletrônicos,129.9,10,Porto Alegre
+2023-01-25,Camiseta,Vestuário,49.9,5,Recife
+2023-11-02,Tênis,Calçados,199.9,5,Manaus
+2023-01-05,Calça Jeans,Vestuário,99.9,7,Salvador
+2023-05-16,Geladeira,Eletrodomésticos,2599.0,7,Porto Alegre
+2023-01-24,Fogão,Eletrodomésticos,999.0,1,Brasília
+2023-10-15,Teclado,Eletrônicos,129.9,6,Manaus
+2023-05-28,Calça Jeans,Vestuário,99.9,7,Manaus
+2023-08-19,Sandália,Calçados,79.9,5,Brasília
+2023-12-15,Smartphone,Eletrônicos,2499.0,2,Salvador
+2023-02-19,Fogão,Eletrodomésticos,999.0,6,Porto Alegre
+2023-10-13,Geladeira,Eletrodomésticos,2599.0,3,Fortaleza
+2023-11-05,Sandália,Calçados,79.9,7,Manaus
+2023-01-21,Camiseta,Vestuário,49.9,1,Salvador
+2023-06-20,Tênis,Calçados,199.9,9,Recife
+2023-03-18,Smartphone,Eletrônicos,2499.0,9,Salvador
+2023-06-17,Smartphone,Eletrônicos,2499.0,6,Salvador
+2023-07-21,Smartphone,Eletrônicos,2499.0,5,Brasília
+2023-06-22,Sandália,Calçados,79.9,9,Manaus
+2023-09-08,Smartphone,Eletrônicos,2499.0,5,Recife
+2023-01-09,Geladeira,Eletrodomésticos,2599.0,6,Rio de Janeiro
+2023-08-02,Smartphone,Eletrônicos,2499.0,5,São Paulo
+2023-11-02,Tênis,Calçados,199.9,5,Brasília
+2023-10-23,Teclado,Eletrônicos,129.9,1,Brasília
+2023-09-03,Notebook,Eletrônicos,3499.0,9,Brasília
+2023-07-14,Notebook,Eletrônicos,3499.0,4,São Paulo
+2023-10-21,Calça Jeans,Vestuário,99.9,4,São Paulo
+2023-08-14,Geladeira,Eletrodomésticos,2599.0,7,Salvador
+2023-07-31,Teclado,Eletrônicos,129.9,7,Manaus
+2023-11-10,Tênis,Calçados,199.9,1,Salvador
+2023-09-23,Teclado,Eletrônicos,129.9,9,Porto Alegre
+2023-12-06,Tênis,Calçados,199.9,9,Curitiba
+2023-06-10,Notebook,Eletrônicos,3499.0,8,Manaus
+2023-06-25,Sandália,Calçados,79.9,6,Belo Horizonte
+2023-11-09,Tênis,Calçados,199.9,4,Fortaleza
+2023-05-23,Sandália,Calçados,79.9,5,Fortaleza
+2023-06-02,Mouse,Eletrônicos,89.9,4,Recife
+2023-06-12,Tênis,Calçados,199.9,6,Manaus
+2023-05-21,Mouse,Eletrônicos,89.9,2,Brasília
+2023-12-13,Sandália,Calçados,79.9,7,Curitiba
+2023-06-26,Notebook,Eletrônicos,3499.0,5,São Paulo
+2023-05-28,Calça Jeans,Vestuário,99.9,6,Recife
+2023-12-02,Mouse,Eletrônicos,89.9,8,Fortaleza
+2023-04-14,Sandália,Calçados,79.9,5,Manaus
+2023-12-23,Mouse,Eletrônicos,89.9,3,Rio de Janeiro
+2023-11-12,Smartphone,Eletrônicos,2499.0,4,Fortaleza
+2023-01-26,Sandália,Calçados,79.9,4,Fortaleza
+2023-01-27,Calça Jeans,Vestuário,99.9,7,Porto Alegre
+2023-08-30,Calça Jeans,Vestuário,99.9,3,São Paulo
+2023-10-09,Notebook,Eletrônicos,3499.0,7,Recife
+2023-09-02,Teclado,Eletrônicos,129.9,5,Porto Alegre
+2023-05-27,Camiseta,Vestuário,49.9,2,Brasília
+2023-04-29,Sandália,Calçados,79.9,1,Salvador
+2023-08-02,Notebook,Eletrônicos,3499.0,1,Curitiba
+2023-09-11,Notebook,Eletrônicos,3499.0,5,São Paulo
+2023-01-05,Mouse,Eletrônicos,89.9,10,Brasília
+2023-02-24,Geladeira,Eletrodomésticos,2599.0,5,Recife
+2023-11-25,Sandália,Calçados,79.9,9,Recife
+2023-03-10,Sandália,Calçados,79.9,8,Belo Horizonte
+2023-04-09,Calça Jeans,Vestuário,99.9,6,Salvador
+2023-08-23,Mouse,Eletrônicos,89.9,3,São Paulo
+2023-06-22,Mouse,Eletrônicos,89.9,10,Fortaleza
+2023-03-31,Smartphone,Eletrônicos,2499.0,7,Curitiba
+2023-09-21,Geladeira,Eletrodomésticos,2599.0,2,Curitiba
+2023-12-09,Calça Jeans,Vestuário,99.9,3,Salvador
+2023-09-02,Geladeira,Eletrodomésticos,2599.0,4,São Paulo
+2023-05-14,Fogão,Eletrodomésticos,999.0,4,Recife
+2023-05-17,Geladeira,Eletrodomésticos,2599.0,5,Brasília
+2023-10-21,Camiseta,Vestuário,49.9,5,Porto Alegre
+2023-12-21,Teclado,Eletrônicos,129.9,1,Rio de Janeiro
+2023-08-27,Mouse,Eletrônicos,89.9,3,Curitiba
+2023-12-18,Sandália,Calçados,79.9,5,Rio de Janeiro
+2023-11-24,Mouse,Eletrônicos,89.9,6,Brasília
+2023-04-24,Teclado,Eletrônicos,129.9,3,Recife
+2023-03-20,Tênis,Calçados,199.9,10,Porto Alegre
+2023-08-01,Sandália,Calçados,79.9,8,Manaus
+2023-12-07,Teclado,Eletrônicos,129.9,4,Brasília
+2023-02-11,Sandália,Calçados,79.9,8,Manaus
+2023-12-27,Geladeira,Eletrodomésticos,2599.0,2,Brasília
+2023-02-27,Camiseta,Vestuário,49.9,9,Manaus
+2023-04-14,Smartphone,Eletrônicos,2499.0,9,Salvador
+2023-03-26,Geladeira,Eletrodomésticos,2599.0,9,Recife
+2023-03-01,Teclado,Eletrônicos,129.9,10,Recife
+2023-02-16,Sandália,Calçados,79.9,8,São Paulo
+2023-08-21,Notebook,Eletrônicos,3499.0,9,Curitiba
+2023-08-22,Smartphone,Eletrônicos,2499.0,1,Manaus
+2023-08-25,Mouse,Eletrônicos,89.9,1,Curitiba
+2023-05-11,Camiseta,Vestuário,49.9,4,Brasília
+2023-02-07,Camiseta,Vestuário,49.9,7,Porto Alegre
+2023-12-25,Calça Jeans,Vestuário,99.9,9,São Paulo
+2023-02-05,Tênis,Calçados,199.9,1,Belo Horizonte
+2023-07-29,Notebook,Eletrônicos,3499.0,3,Curitiba
+2023-07-11,Fogão,Eletrodomésticos,999.0,8,Curitiba
+2023-07-12,Calça Jeans,Vestuário,99.9,9,Salvador
+2023-12-01,Geladeira,Eletrodomésticos,2599.0,2,Salvador
+2023-10-03,Fogão,Eletrodomésticos,999.0,9,Salvador
+2023-04-25,Camiseta,Vestuário,49.9,1,Belo Horizonte
+2023-08-26,Sandália,Calçados,79.9,7,Manaus
+2023-07-14,Teclado,Eletrônicos,129.9,4,Recife
+2023-06-27,Notebook,Eletrônicos,3499.0,5,Fortaleza
+2023-02-27,Camiseta,Vestuário,49.9,7,Brasília
+2023-01-09,Teclado,Eletrônicos,129.9,4,Rio de Janeiro
+2023-02-21,Smartphone,Eletrônicos,2499.0,1,Recife
+2023-11-03,Camiseta,Vestuário,49.9,4,São Paulo
+2023-07-25,Tênis,Calçados,199.9,4,Manaus
+2023-04-22,Camiseta,Vestuário,49.9,3,Manaus
+2023-05-29,Teclado,Eletrônicos,129.9,10,Porto Alegre
+2023-10-23,Smartphone,Eletrônicos,2499.0,6,Fortaleza
+2023-06-04,Notebook,Eletrônicos,3499.0,9,Fortaleza
+2023-07-31,Mouse,Eletrônicos,89.9,5,São Paulo
+2023-10-13,Smartphone,Eletrônicos,2499.0,3,Curitiba
+2023-10-12,Tênis,Calçados,199.9,1,Porto Alegre
+2023-11-26,Fogão,Eletrodomésticos,999.0,9,Porto Alegre
+2023-12-23,Fogão,Eletrodomésticos,999.0,7,Salvador
+2023-06-03,Fogão,Eletrodomésticos,999.0,3,Manaus
+2023-08-31,Teclado,Eletrônicos,129.9,4,Belo Horizonte
+2023-12-29,Notebook,Eletrônicos,3499.0,8,São Paulo
+2023-10-15,Fogão,Eletrodomésticos,999.0,7,Manaus
+2023-09-29,Notebook,Eletrônicos,3499.0,7,Fortaleza
+2023-05-11,Teclado,Eletrônicos,129.9,6,Rio de Janeiro
+2023-08-19,Geladeira,Eletrodomésticos,2599.0,2,Manaus
+2023-04-08,Camiseta,Vestuário,49.9,5,Curitiba
+2023-12-11,Smartphone,Eletrônicos,2499.0,10,São Paulo
+2023-02-07,Teclado,Eletrônicos,129.9,10,Manaus
+2023-04-22,Tênis,Calçados,199.9,4,Porto Alegre
+2023-06-05,Camiseta,Vestuário,49.9,4,Fortaleza
+2023-03-02,Tênis,Calçados,199.9,4,Brasília
+2023-12-27,Teclado,Eletrônicos,129.9,7,Fortaleza
+2023-10-10,Geladeira,Eletrodomésticos,2599.0,5,Curitiba
+2023-08-27,Sandália,Calçados,79.9,6,Belo Horizonte
+2023-05-14,Geladeira,Eletrodomésticos,2599.0,9,Recife
+2023-08-27,Calça Jeans,Vestuário,99.9,8,Porto Alegre
+2023-04-15,Geladeira,Eletrodomésticos,2599.0,6,Curitiba
+2023-01-24,Smartphone,Eletrônicos,2499.0,4,Salvador
+2023-01-09,Mouse,Eletrônicos,89.9,9,Brasília
+2023-10-24,Fogão,Eletrodomésticos,999.0,5,Salvador
+2023-04-11,Geladeira,Eletrodomésticos,2599.0,4,Curitiba
+2023-10-19,Teclado,Eletrônicos,129.9,8,Manaus
+2023-12-02,Geladeira,Eletrodomésticos,2599.0,5,Recife
+2023-11-25,Tênis,Calçados,199.9,8,Salvador
+2023-06-30,Notebook,Eletrônicos,3499.0,3,Manaus
+2023-09-08,Notebook,Eletrônicos,3499.0,9,São Paulo
+2023-09-26,Camiseta,Vestuário,49.9,2,São Paulo
+2023-01-04,Fogão,Eletrodomésticos,999.0,3,Fortaleza
+2023-02-04,Notebook,Eletrônicos,3499.0,1,Fortaleza
+2023-09-16,Tênis,Calçados,199.9,6,São Paulo
+2023-11-13,Smartphone,Eletrônicos,2499.0,8,Recife
+2023-01-09,Camiseta,Vestuário,49.9,9,Manaus
+2023-07-30,Camiseta,Vestuário,49.9,1,Manaus
+2023-05-21,Sandália,Calçados,79.9,5,São Paulo
+2023-09-15,Fogão,Eletrodomésticos,999.0,3,Rio de Janeiro
+2023-02-19,Sandália,Calçados,79.9,3,Fortaleza
+2023-04-09,Smartphone,Eletrônicos,2499.0,9,Belo Horizonte
+2023-07-01,Mouse,Eletrônicos,89.9,7,Rio de Janeiro
+2023-07-11,Fogão,Eletrodomésticos,999.0,8,Brasília
+2023-05-05,Teclado,Eletrônicos,129.9,5,Rio de Janeiro
+2023-12-01,Camiseta,Vestuário,49.9,2,Curitiba
+2023-07-14,Fogão,Eletrodomésticos,999.0,9,Recife
+2023-01-29,Camiseta,Vestuário,49.9,3,Rio de Janeiro
+2023-09-13,Fogão,Eletrodomésticos,999.0,6,Brasília
+2023-02-18,Sandália,Calçados,79.9,1,Fortaleza
+2023-04-19,Smartphone,Eletrônicos,2499.0,8,Belo Horizonte
+2023-01-24,Calça Jeans,Vestuário,99.9,5,Manaus
+2023-10-16,Camiseta,Vestuário,49.9,3,Porto Alegre
+2023-01-09,Teclado,Eletrônicos,129.9,10,Salvador
+2023-12-31,Fogão,Eletrodomésticos,999.0,2,Belo Horizonte
+2023-03-25,Smartphone,Eletrônicos,2499.0,4,Brasília
+2023-07-19,Sandália,Calçados,79.9,6,Curitiba
+2023-03-13,Calça Jeans,Vestuário,99.9,9,Porto Alegre
+2023-01-28,Calça Jeans,Vestuário,99.9,7,Fortaleza
+2023-02-08,Geladeira,Eletrodomésticos,2599.0,10,Brasília
+2023-11-01,Fogão,Eletrodomésticos,999.0,6,São Paulo
+2023-11-21,Mouse,Eletrônicos,89.9,8,Recife
+2023-04-27,Geladeira,Eletrodomésticos,2599.0,9,Curitiba
+2023-08-10,Notebook,Eletrônicos,3499.0,10,Curitiba
+2023-02-13,Smartphone,Eletrônicos,2499.0,5,Fortaleza
+2023-02-07,Calça Jeans,Vestuário,99.9,5,Salvador
+2023-07-14,Notebook,Eletrônicos,3499.0,7,Porto Alegre
+2023-07-04,Calça Jeans,Vestuário,99.9,2,São Paulo
+2023-06-07,Tênis,Calçados,199.9,6,Belo Horizonte
+2023-02-22,Notebook,Eletrônicos,3499.0,2,Salvador
+2023-08-09,Tênis,Calçados,199.9,9,Manaus
+2023-09-20,Fogão,Eletrodomésticos,999.0,2,São Paulo
+2023-02-15,Geladeira,Eletrodomésticos,2599.0,9,Rio de Janeiro
+2023-11-02,Smartphone,Eletrônicos,2499.0,6,Curitiba
+2023-01-07,Mouse,Eletrônicos,89.9,7,Curitiba
+2023-02-13,Sandália,Calçados,79.9,4,Brasília
+2023-09-24,Notebook,Eletrônicos,3499.0,7,Salvador
+2023-03-13,Mouse,Eletrônicos,89.9,5,Belo Horizonte
+2023-09-10,Notebook,Eletrônicos,3499.0,2,Salvador
+2023-08-11,Mouse,Eletrônicos,89.9,7,Belo Horizonte
+2023-09-05,Calça Jeans,Vestuário,99.9,6,Belo Horizonte
+2023-05-07,Tênis,Calçados,199.9,10,Brasília
+2023-04-11,Tênis,Calçados,199.9,2,Salvador
+2023-06-05,Camiseta,Vestuário,49.9,7,Porto Alegre
+2023-11-14,Fogão,Eletrodomésticos,999.0,6,Recife
+2023-06-21,Fogão,Eletrodomésticos,999.0,10,Salvador
+2023-06-03,Geladeira,Eletrodomésticos,2599.0,10,Fortaleza
+2023-09-03,Geladeira,Eletrodomésticos,2599.0,3,Curitiba
+2023-06-13,Mouse,Eletrônicos,89.9,8,Brasília
+2023-05-05,Geladeira,Eletrodomésticos,2599.0,7,Belo Horizonte
+2023-07-21,Geladeira,Eletrodomésticos,2599.0,2,Brasília
+2023-04-13,Smartphone,Eletrônicos,2499.0,9,Salvador
+2023-12-16,Sandália,Calçados,79.9,1,Recife
+2023-12-29,Teclado,Eletrônicos,129.9,8,Belo Horizonte
+2023-12-21,Calça Jeans,Vestuário,99.9,7,Recife
+2023-03-13,Mouse,Eletrônicos,89.9,4,Belo Horizonte
+2023-12-04,Notebook,Eletrônicos,3499.0,7,Curitiba
+2023-02-07,Tênis,Calçados,199.9,10,Recife
+2023-10-26,Fogão,Eletrodomésticos,999.0,9,Manaus
+2023-12-21,Fogão,Eletrodomésticos,999.0,9,São Paulo
+2023-07-04,Sandália,Calçados,79.9,10,Rio de Janeiro
+2023-02-25,Teclado,Eletrônicos,129.9,6,Salvador
+2023-11-28,Smartphone,Eletrônicos,2499.0,1,Brasília
+2023-11-27,Fogão,Eletrodomésticos,999.0,6,Curitiba
+2023-02-24,Camiseta,Vestuário,49.9,2,Belo Horizonte
+2023-04-24,Sandália,Calçados,79.9,9,Manaus
+2023-10-25,Smartphone,Eletrônicos,2499.0,4,Recife
+2023-07-11,Fogão,Eletrodomésticos,999.0,8,Brasília
+2023-12-20,Sandália,Calçados,79.9,3,Porto Alegre
+2023-01-13,Tênis,Calçados,199.9,2,Belo Horizonte
+2023-08-01,Calça Jeans,Vestuário,99.9,2,Salvador
+2023-06-28,Mouse,Eletrônicos,89.9,6,Recife
+2023-04-16,Sandália,Calçados,79.9,8,Porto Alegre
+2023-09-01,Calça Jeans,Vestuário,99.9,8,Recife
+2023-06-13,Calça Jeans,Vestuário,99.9,5,São Paulo
+2023-12-30,Calça Jeans,Vestuário,99.9,1,Porto Alegre
+2023-11-28,Calça Jeans,Vestuário,99.9,3,Fortaleza
+2023-09-22,Notebook,Eletrônicos,3499.0,9,Salvador
+2023-06-19,Sandália,Calçados,79.9,7,Recife
+2023-04-29,Fogão,Eletrodomésticos,999.0,3,Salvador
+2023-11-24,Fogão,Eletrodomésticos,999.0,7,São Paulo
+2023-11-11,Teclado,Eletrônicos,129.9,8,Brasília
+2023-08-08,Fogão,Eletrodomésticos,999.0,1,Fortaleza
+2023-04-16,Mouse,Eletrônicos,89.9,2,Brasília
+2023-02-22,Sandália,Calçados,79.9,3,Porto Alegre
+2023-06-16,Teclado,Eletrônicos,129.9,8,Rio de Janeiro
+2023-05-15,Tênis,Calçados,199.9,9,Porto Alegre
+2023-11-02,Fogão,Eletrodomésticos,999.0,10,Curitiba
+2023-10-28,Calça Jeans,Vestuário,99.9,6,Porto Alegre
+2023-08-23,Smartphone,Eletrônicos,2499.0,3,Belo Horizonte
+2023-11-11,Smartphone,Eletrônicos,2499.0,2,Salvador
+2023-06-10,Calça Jeans,Vestuário,99.9,4,Belo Horizonte
+2023-03-01,Notebook,Eletrônicos,3499.0,6,Salvador
+2023-09-19,Fogão,Eletrodomésticos,999.0,7,Brasília
+2023-03-12,Smartphone,Eletrônicos,2499.0,7,Curitiba
+2023-04-06,Tênis,Calçados,199.9,9,Salvador
+2023-10-12,Notebook,Eletrônicos,3499.0,8,Belo Horizonte
+2023-03-13,Notebook,Eletrônicos,3499.0,6,Recife
+2023-11-14,Camiseta,Vestuário,49.9,6,São Paulo
+2023-09-06,Notebook,Eletrônicos,3499.0,4,Curitiba
+2023-10-15,Sandália,Calçados,79.9,8,Curitiba
+2023-12-17,Tênis,Calçados,199.9,7,Recife
+2023-09-08,Notebook,Eletrônicos,3499.0,2,Brasília
+2023-01-16,Teclado,Eletrônicos,129.9,5,São Paulo
+2023-05-21,Teclado,Eletrônicos,129.9,9,Belo Horizonte
+2023-03-28,Tênis,Calçados,199.9,10,Recife
+2023-10-09,Sandália,Calçados,79.9,2,Brasília
+2023-02-28,Mouse,Eletrônicos,89.9,9,Porto Alegre
+2023-10-05,Camiseta,Vestuário,49.9,8,Manaus
+2023-04-22,Fogão,Eletrodomésticos,999.0,2,Fortaleza
+2023-06-02,Camiseta,Vestuário,49.9,8,Belo Horizonte
+2023-06-28,Calça Jeans,Vestuário,99.9,8,Rio de Janeiro
+2023-05-02,Teclado,Eletrônicos,129.9,10,Porto Alegre
+2023-12-30,Smartphone,Eletrônicos,2499.0,7,Salvador
+2023-11-12,Notebook,Eletrônicos,3499.0,4,Fortaleza
+2023-01-31,Smartphone,Eletrônicos,2499.0,6,Manaus
+2023-05-24,Smartphone,Eletrônicos,2499.0,9,Salvador
+2023-06-15,Mouse,Eletrônicos,89.9,5,Brasília
+2023-05-17,Sandália,Calçados,79.9,2,Salvador
+2023-07-30,Camiseta,Vestuário,49.9,5,Salvador
+2023-12-26,Notebook,Eletrônicos,3499.0,4,Salvador
+2023-12-31,Geladeira,Eletrodomésticos,2599.0,4,Curitiba
+2023-09-08,Notebook,Eletrônicos,3499.0,10,Belo Horizonte
+2023-11-18,Fogão,Eletrodomésticos,999.0,7,Recife
+2023-02-08,Calça Jeans,Vestuário,99.9,7,Manaus
+2023-05-23,Geladeira,Eletrodomésticos,2599.0,8,Recife
+2023-06-17,Smartphone,Eletrônicos,2499.0,1,Rio de Janeiro
+2023-08-23,Geladeira,Eletrodomésticos,2599.0,2,Manaus
+2023-07-23,Teclado,Eletrônicos,129.9,7,Fortaleza
+2023-09-11,Mouse,Eletrônicos,89.9,6,Belo Horizonte
+2023-06-22,Sandália,Calçados,79.9,10,Salvador
+2023-10-17,Tênis,Calçados,199.9,6,São Paulo
+2023-01-24,Calça Jeans,Vestuário,99.9,8,São Paulo
+2023-03-05,Notebook,Eletrônicos,3499.0,8,Recife
+2023-01-01,Fogão,Eletrodomésticos,999.0,4,Salvador
+2023-11-29,Mouse,Eletrônicos,89.9,3,Belo Horizonte
+2023-02-17,Geladeira,Eletrodomésticos,2599.0,5,Rio de Janeiro
+2023-07-10,Notebook,Eletrônicos,3499.0,1,Curitiba
+2023-11-17,Mouse,Eletrônicos,89.9,4,Curitiba
+2023-12-02,Calça Jeans,Vestuário,99.9,2,São Paulo
+2023-04-20,Tênis,Calçados,199.9,2,Salvador
+2023-10-31,Teclado,Eletrônicos,129.9,9,Recife
+2023-01-05,Camiseta,Vestuário,49.9,6,Rio de Janeiro
+2023-08-05,Notebook,Eletrônicos,3499.0,8,Rio de Janeiro
+2023-04-28,Fogão,Eletrodomésticos,999.0,2,Rio de Janeiro
+2023-02-22,Geladeira,Eletrodomésticos,2599.0,6,Belo Horizonte
+2023-03-12,Fogão,Eletrodomésticos,999.0,3,Salvador
+2023-02-05,Sandália,Calçados,79.9,10,São Paulo
+2023-11-09,Notebook,Eletrônicos,3499.0,8,Porto Alegre
+2023-04-20,Notebook,Eletrônicos,3499.0,7,Brasília
+2023-12-18,Tênis,Calçados,199.9,4,Rio de Janeiro
+2023-02-21,Notebook,Eletrônicos,3499.0,2,Brasília
+2023-07-16,Geladeira,Eletrodomésticos,2599.0,7,Porto Alegre
+2023-03-13,Teclado,Eletrônicos,129.9,5,Rio de Janeiro
+2023-05-08,Sandália,Calçados,79.9,10,Brasília
+2023-11-08,Mouse,Eletrônicos,89.9,1,Belo Horizonte
+2023-04-16,Sandália,Calçados,79.9,10,Manaus
+2023-04-07,Fogão,Eletrodomésticos,999.0,5,São Paulo
+2023-05-03,Tênis,Calçados,199.9,7,Rio de Janeiro
+2023-05-04,Tênis,Calçados,199.9,10,Rio de Janeiro
+2023-09-28,Camiseta,Vestuário,49.9,6,Porto Alegre
+2023-03-09,Fogão,Eletrodomésticos,999.0,10,Curitiba
+2023-07-07,Sandália,Calçados,79.9,3,Recife
+2023-02-07,Camiseta,Vestuário,49.9,10,Rio de Janeiro
+2023-01-08,Mouse,Eletrônicos,89.9,4,São Paulo
+2023-01-31,Fogão,Eletrodomésticos,999.0,9,Belo Horizonte
+2023-11-18,Sandália,Calçados,79.9,7,Curitiba
+2023-12-26,Fogão,Eletrodomésticos,999.0,2,Manaus
+2023-10-03,Smartphone,Eletrônicos,2499.0,3,Belo Horizonte
+2023-02-12,Mouse,Eletrônicos,89.9,2,Manaus
+2023-04-15,Notebook,Eletrônicos,3499.0,9,Porto Alegre
+2023-07-20,Smartphone,Eletrônicos,2499.0,2,Belo Horizonte
+2023-12-24,Fogão,Eletrodomésticos,999.0,4,São Paulo
+2023-05-06,Calça Jeans,Vestuário,99.9,7,Rio de Janeiro
+2023-08-21,Smartphone,Eletrônicos,2499.0,10,São Paulo
+2023-06-08,Notebook,Eletrônicos,3499.0,2,São Paulo
+2023-12-29,Notebook,Eletrônicos,3499.0,1,Salvador
+2023-09-12,Geladeira,Eletrodomésticos,2599.0,9,Manaus
+2023-05-13,Notebook,Eletrônicos,3499.0,6,Salvador
+2023-05-18,Calça Jeans,Vestuário,99.9,1,Porto Alegre
+2023-08-08,Mouse,Eletrônicos,89.9,9,Rio de Janeiro
+2023-05-15,Smartphone,Eletrônicos,2499.0,2,Recife
+2023-08-22,Sandália,Calçados,79.9,6,São Paulo
+2023-09-13,Smartphone,Eletrônicos,2499.0,3,Porto Alegre
+2023-03-22,Mouse,Eletrônicos,89.9,2,Brasília
+2023-12-12,Calça Jeans,Vestuário,99.9,4,Manaus
+2023-01-02,Camiseta,Vestuário,49.9,1,Fortaleza
+2023-01-24,Tênis,Calçados,199.9,6,Curitiba
+2023-03-18,Notebook,Eletrônicos,3499.0,1,Manaus
+2023-12-02,Fogão,Eletrodomésticos,999.0,4,Porto Alegre
+2023-05-08,Fogão,Eletrodomésticos,999.0,6,Belo Horizonte
+2023-02-09,Smartphone,Eletrônicos,2499.0,6,Rio de Janeiro
+2023-09-15,Camiseta,Vestuário,49.9,3,Fortaleza
+2023-09-22,Camiseta,Vestuário,49.9,7,Rio de Janeiro
+2023-08-27,Mouse,Eletrônicos,89.9,5,Porto Alegre
+2023-02-14,Sandália,Calçados,79.9,8,São Paulo
+2023-07-08,Teclado,Eletrônicos,129.9,5,Brasília
+2023-06-05,Smartphone,Eletrônicos,2499.0,4,Recife
+2023-07-08,Smartphone,Eletrônicos,2499.0,8,Fortaleza
+2023-10-07,Teclado,Eletrônicos,129.9,3,São Paulo
+2023-07-29,Camiseta,Vestuário,49.9,4,Manaus
+2023-06-27,Camiseta,Vestuário,49.9,6,São Paulo
+2023-12-03,Fogão,Eletrodomésticos,999.0,5,Rio de Janeiro
+2023-04-16,Sandália,Calçados,79.9,4,Curitiba
+2023-09-09,Camiseta,Vestuário,49.9,3,Belo Horizonte
+2023-02-17,Camiseta,Vestuário,49.9,4,Manaus
+2023-07-31,Geladeira,Eletrodomésticos,2599.0,8,Rio de Janeiro
+2023-10-25,Calça Jeans,Vestuário,99.9,9,Salvador
+2023-11-23,Fogão,Eletrodomésticos,999.0,2,Brasília
+2023-10-18,Camiseta,Vestuário,49.9,7,Salvador
+2023-05-02,Mouse,Eletrônicos,89.9,5,Porto Alegre
+2023-07-21,Geladeira,Eletrodomésticos,2599.0,6,Recife
+2023-05-20,Teclado,Eletrônicos,129.9,2,Fortaleza
+2023-03-11,Smartphone,Eletrônicos,2499.0,2,Salvador
+2023-02-24,Notebook,Eletrônicos,3499.0,8,Recife
+2023-06-10,Fogão,Eletrodomésticos,999.0,2,Manaus
+2023-07-03,Teclado,Eletrônicos,129.9,8,Belo Horizonte
+2023-08-26,Mouse,Eletrônicos,89.9,2,Rio de Janeiro
+2023-03-22,Mouse,Eletrônicos,89.9,10,São Paulo
+2023-04-21,Geladeira,Eletrodomésticos,2599.0,3,Rio de Janeiro
+2023-12-31,Teclado,Eletrônicos,129.9,6,Curitiba
+2023-09-20,Camiseta,Vestuário,49.9,5,Belo Horizonte
+2023-03-31,Camiseta,Vestuário,49.9,7,Recife
+2023-10-12,Sandália,Calçados,79.9,4,Rio de Janeiro
+2023-08-25,Calça Jeans,Vestuário,99.9,3,Rio de Janeiro
+2023-01-07,Camiseta,Vestuário,49.9,4,Salvador
+2023-04-12,Fogão,Eletrodomésticos,999.0,6,Rio de Janeiro
+2023-10-26,Smartphone,Eletrônicos,2499.0,5,Rio de Janeiro
+2023-01-12,Calça Jeans,Vestuário,99.9,4,Recife
+2023-03-07,Calça Jeans,Vestuário,99.9,6,Rio de Janeiro
+2023-01-22,Tênis,Calçados,199.9,1,Salvador
+2023-10-21,Fogão,Eletrodomésticos,999.0,7,Recife
+2023-01-16,Fogão,Eletrodomésticos,999.0,7,Salvador
+2023-07-01,Teclado,Eletrônicos,129.9,3,Belo Horizonte
+2023-05-24,Tênis,Calçados,199.9,3,São Paulo
+2023-11-11,Smartphone,Eletrônicos,2499.0,10,Fortaleza
+2023-11-28,Mouse,Eletrônicos,89.9,8,Curitiba
+2023-10-09,Tênis,Calçados,199.9,1,Rio de Janeiro
+2023-05-24,Fogão,Eletrodomésticos,999.0,3,Curitiba
+2023-04-13,Sandália,Calçados,79.9,4,Manaus
+2023-01-10,Fogão,Eletrodomésticos,999.0,6,Recife
+2023-10-06,Tênis,Calçados,199.9,6,Brasília
+2023-09-15,Geladeira,Eletrodomésticos,2599.0,7,Belo Horizonte
+2023-04-03,Camiseta,Vestuário,49.9,6,Brasília
+2023-04-23,Camiseta,Vestuário,49.9,5,São Paulo
+2023-08-30,Sandália,Calçados,79.9,6,Brasília
+2023-04-30,Notebook,Eletrônicos,3499.0,2,Fortaleza
+2023-12-03,Teclado,Eletrônicos,129.9,5,Manaus
+2023-01-29,Teclado,Eletrônicos,129.9,10,Curitiba
+2023-07-01,Notebook,Eletrônicos,3499.0,3,Fortaleza
+2023-10-31,Geladeira,Eletrodomésticos,2599.0,6,Brasília
+2023-01-15,Geladeira,Eletrodomésticos,2599.0,10,Brasília
+2023-03-14,Smartphone,Eletrônicos,2499.0,4,Recife
+2023-10-05,Mouse,Eletrônicos,89.9,3,Recife
+2023-01-20,Calça Jeans,Vestuário,99.9,1,Fortaleza
+2023-11-05,Teclado,Eletrônicos,129.9,1,Manaus
+2023-09-02,Camiseta,Vestuário,49.9,6,Brasília
+2023-04-14,Notebook,Eletrônicos,3499.0,6,Salvador
+2023-06-15,Camiseta,Vestuário,49.9,1,Salvador
+2023-10-28,Notebook,Eletrônicos,3499.0,2,Manaus
+2023-07-06,Calça Jeans,Vestuário,99.9,6,Curitiba
+2023-10-28,Calça Jeans,Vestuário,99.9,6,Belo Horizonte
+2023-06-15,Notebook,Eletrônicos,3499.0,3,Curitiba
+2023-11-24,Tênis,Calçados,199.9,6,Salvador
+2023-12-29,Sandália,Calçados,79.9,10,Porto Alegre
+2023-04-25,Smartphone,Eletrônicos,2499.0,3,Curitiba
+2023-06-07,Mouse,Eletrônicos,89.9,3,Salvador
+2023-01-01,Smartphone,Eletrônicos,2499.0,7,Brasília
+2023-01-17,Notebook,Eletrônicos,3499.0,10,Porto Alegre
+2023-11-10,Teclado,Eletrônicos,129.9,10,Rio de Janeiro
+2023-09-12,Notebook,Eletrônicos,3499.0,6,Rio de Janeiro
+2023-05-02,Geladeira,Eletrodomésticos,2599.0,6,Salvador
+2023-11-22,Calça Jeans,Vestuário,99.9,6,Recife
+2023-01-06,Mouse,Eletrônicos,89.9,4,Fortaleza
+2023-12-21,Calça Jeans,Vestuário,99.9,6,Belo Horizonte
+2023-02-25,Camiseta,Vestuário,49.9,1,Curitiba
+2023-08-13,Fogão,Eletrodomésticos,999.0,3,Curitiba
+2023-09-10,Fogão,Eletrodomésticos,999.0,6,Manaus
+2023-07-12,Calça Jeans,Vestuário,99.9,8,Brasília
+2023-11-30,Teclado,Eletrônicos,129.9,3,Recife
+2023-02-07,Camiseta,Vestuário,49.9,5,São Paulo
+2023-06-13,Mouse,Eletrônicos,89.9,2,Rio de Janeiro
+2023-06-25,Notebook,Eletrônicos,3499.0,7,Salvador
+2023-02-08,Sandália,Calçados,79.9,2,Porto Alegre
+2023-11-01,Smartphone,Eletrônicos,2499.0,8,São Paulo
+2023-08-09,Notebook,Eletrônicos,3499.0,10,Curitiba
+2023-03-22,Camiseta,Vestuário,49.9,2,Porto Alegre
+2023-04-16,Teclado,Eletrônicos,129.9,7,Manaus
+2023-10-04,Mouse,Eletrônicos,89.9,5,Belo Horizonte
+2023-05-02,Calça Jeans,Vestuário,99.9,1,Curitiba
+2023-10-20,Sandália,Calçados,79.9,8,Salvador
+2023-01-28,Geladeira,Eletrodomésticos,2599.0,1,Curitiba
+2023-02-14,Mouse,Eletrônicos,89.9,10,Recife
+2023-04-13,Calça Jeans,Vestuário,99.9,1,Fortaleza
+2023-03-29,Mouse,Eletrônicos,89.9,2,Recife
+2023-03-01,Mouse,Eletrônicos,89.9,7,Recife
+2023-09-08,Mouse,Eletrônicos,89.9,2,Manaus
+2023-07-18,Notebook,Eletrônicos,3499.0,6,Curitiba
+2023-07-09,Notebook,Eletrônicos,3499.0,8,São Paulo
+2023-05-15,Tênis,Calçados,199.9,8,Belo Horizonte
+2023-04-26,Mouse,Eletrônicos,89.9,10,São Paulo
+2023-03-19,Calça Jeans,Vestuário,99.9,2,Porto Alegre
+2023-10-05,Fogão,Eletrodomésticos,999.0,10,Fortaleza
+2023-10-11,Camiseta,Vestuário,49.9,7,Manaus
+2023-08-03,Sandália,Calçados,79.9,8,Brasília
+2023-05-01,Tênis,Calçados,199.9,5,Rio de Janeiro
+2023-07-22,Camiseta,Vestuário,49.9,9,Brasília
+2023-09-22,Smartphone,Eletrônicos,2499.0,10,Salvador
+2023-03-03,Tênis,Calçados,199.9,3,Salvador
+2023-04-19,Teclado,Eletrônicos,129.9,3,São Paulo
+2023-08-05,Calça Jeans,Vestuário,99.9,7,Fortaleza
+2023-11-18,Notebook,Eletrônicos,3499.0,10,Belo Horizonte
+2023-06-13,Calça Jeans,Vestuário,99.9,2,Curitiba
+2023-10-12,Fogão,Eletrodomésticos,999.0,9,Porto Alegre
